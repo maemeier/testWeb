@@ -1,0 +1,52 @@
+{
+  "cell": [
+    {
+      "title": "Intro to React",
+      "image": "https://res.cloudinary.com/fyni/image/upload/v1569274375/React.js_logo-512_t4y1q5.png"
+    },
+    {
+      "title": "Basic Styling in CSS",
+      "image": "https://res.cloudinary.com/fyni/image/upload/v1569274375/React.js_logo-512_t4y1q5.png"
+    },
+    {
+      "title": "Adaptive Layout with CSS Grid",
+      "image": "https://res.cloudinary.com/fyni/image/upload/v1569274375/React.js_logo-512_t4y1q5.png"
+    },
+    {
+      "title": "interactions and Animations",
+      "image": "https://res.cloudinary.com/fyni/image/upload/v1569274375/React.js_logo-512_t4y1q5.png"
+    },
+    {
+      "title": "SVG Animation",
+      "image": "https://res.cloudinary.com/fyni/image/upload/v1569274375/React.js_logo-512_t4y1q5.png"
+    },
+    {
+      "title": "components and Props",
+      "image": "https://res.cloudinary.com/fyni/image/upload/v1569274375/React.js_logo-512_t4y1q5.png"
+    },
+    {
+      "title": "States and Events",
+      "image": "https://res.cloudinary.com/fyni/image/upload/v1569274375/React.js_logo-512_t4y1q5.png"
+    },
+    {
+      "title": "Styled Components",
+      "image": "https://res.cloudinary.com/fyni/image/upload/v1569274375/React.js_logo-512_t4y1q5.png"
+    },
+    {
+      "title": "Static Data with JSON",
+      "image": "https://res.cloudinary.com/fyni/image/upload/v1569274375/React.js_logo-512_t4y1q5.png"
+    },
+    {
+      "title": "GraphQL with Contentful",
+      "image": "https://res.cloudinary.com/fyni/image/upload/v1569274375/React.js_logo-512_t4y1q5.png"
+    },
+    {
+      "title": "Public to Nitify",
+      "image": "https://res.cloudinary.com/fyni/image/upload/v1569274375/React.js_logo-512_t4y1q5.png"
+    },
+    {
+      "title": "Payment with Stripe Checkout",
+      "image": "https://res.cloudinary.com/fyni/image/upload/v1569274375/React.js_logo-512_t4y1q5.png"
+    }
+  ]
+}
